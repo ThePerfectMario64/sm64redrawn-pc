@@ -50,14 +50,23 @@ If you're using the latest nightly version you'll need to have a `gfx` directory
 
 To Get This For sm64coopdx
       Download The [Repo](https://github.com/ThePerfectMario64/sm64redrawn-pc/archive/refs/heads/master.zip)
+
       Unzip The Folder
+
       Go Into gfx
+
       Copy All The Folders
+
       Go To Your sm64coopdx Folder
+
       Go Into dynos
+
       Then Packs
+
       Make A Folder (The name can be really anything, I perfer SM64 Redrawn.)
+
       Paste The Files You Copied Into Said Folder
+      
       Profit.
 
 <b>(Master Clone)</b>
