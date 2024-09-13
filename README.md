@@ -49,7 +49,7 @@ If you're using the latest nightly version you'll need to have a `gfx` directory
                  ┗ textures</pre>
 
 To Get This For sm64coopdx
-      Download The (Repo)[https://github.com/ThePerfectMario64/sm64redrawn-pc/archive/refs/heads/master.zip]
+      Download The [Repo](https://github.com/ThePerfectMario64/sm64redrawn-pc/archive/refs/heads/master.zip)
       Unzip The Folder
       Go Into gfx
       Copy All The Folders
